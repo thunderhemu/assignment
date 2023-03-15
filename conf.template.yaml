@@ -1,0 +1,21 @@
+input:
+  query_file_path: <path of input query>
+  sql:
+    host_name: <host name>
+    port: <port>
+    users_name: <user-name>
+    password: <password>
+    db_name: <database name>
+    table_name: <table name>
+
+output:
+  datalake:
+    output_file_path: <file path>
+    output_file_format: <output file format>  #csv/parquet/orc
+  sql:
+    host_name: <host name>
+    port: <port>
+    users_name: <user-name>
+    password: <password>
+    db_name: <database name>
+    table_name: <table name>

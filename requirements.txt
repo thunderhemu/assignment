@@ -1,0 +1,6 @@
+PyYAML
+pyspark
+SQLAlchemy
+wget
+testcontainers
+pymssql
