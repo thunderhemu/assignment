@@ -37,9 +37,8 @@
              table_name: <table name>
 
 ## Flow Chart
-
-   <img src="/image/flow.jpeg" alt=" Flow chart" title="Flow chart title">
-     
+   ![Alt text](/images/flow.jpeg "Flow Chart")
+   
 ## Execution options
       python etl_job.py
  
